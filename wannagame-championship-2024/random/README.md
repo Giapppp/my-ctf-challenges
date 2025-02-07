@@ -1,6 +1,8 @@
 # random
 **Category:** Crypto
+
 **Difficulty:** Easy
+
 **Solves:** 152
 
 ## Description

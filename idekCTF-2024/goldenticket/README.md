@@ -1,6 +1,8 @@
 # Golden Ticket
 **Category:** Crypto
+
 **Difficulty:** Easy
+
 **Solves:** 189
 
 ## Description

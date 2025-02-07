@@ -1,5 +1,6 @@
-# my-ctf-challenges
-Challenges I created for CTF competitions.
+# My CTF challenges
+
+Challenges I created for some CTF competitions.
 
 ## 2024
 

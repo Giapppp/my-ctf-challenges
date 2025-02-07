@@ -1,6 +1,8 @@
 # ice-cream
 **Category:** Crypto
+
 **Difficulty:** Medium/Hard
+
 **Solves:** 4
 
 ## Description
