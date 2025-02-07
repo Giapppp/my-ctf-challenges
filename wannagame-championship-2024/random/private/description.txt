@@ -1,5 +1,0 @@
-- Challenge Name: random
-- Author: Giapppp 
-- Points: 500 
-- Description: 
-I used one time pad many times and wish no one can read my secret...

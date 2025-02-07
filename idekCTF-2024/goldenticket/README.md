@@ -1,7 +1,7 @@
 # Golden Ticket
 **Category:** Crypto
 **Difficulty:** Easy
-**Author:** Giapppp
+**Solves:** 189
 
 ## Description
 
