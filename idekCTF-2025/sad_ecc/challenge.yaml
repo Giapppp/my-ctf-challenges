@@ -1,0 +1,13 @@
+apiVersion: kctf.dev/v1
+kind: Challenge
+metadata:
+  name: sad-ecc
+spec:
+  deployed: true
+  powDifficultySeconds: 0
+  network:
+    public: true
+  healthcheck:
+    # TIP: disable the healthcheck during development
+    enabled: false
+  image: europe-west1-docker.pkg.dev/idekctf-374221/kctf/sad-ecc-challenge:4b5a87334fa526bf76d6b4822c37fba3629656b40368f2c346b8b8d075eff636

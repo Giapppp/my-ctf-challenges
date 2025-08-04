@@ -1,0 +1,13 @@
+apiVersion: kctf.dev/v1
+kind: Challenge
+metadata:
+  name: catch
+spec:
+  deployed: true
+  powDifficultySeconds: 0
+  network:
+    public: true
+  healthcheck:
+    # TIP: disable the healthcheck during development
+    enabled: false
+  image: europe-west1-docker.pkg.dev/idekctf-374221/kctf/catch-challenge:20a528a923c4467a010cadf7dcd89e723ca928251525a0b42ce753c959acdad9

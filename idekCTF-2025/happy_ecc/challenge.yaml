@@ -1,0 +1,13 @@
+apiVersion: kctf.dev/v1
+kind: Challenge
+metadata:
+  name: happy-ecc
+spec:
+  deployed: true
+  powDifficultySeconds: 0
+  network:
+    public: true
+  healthcheck:
+    # TIP: disable the healthcheck during development
+    enabled: false
+  image: europe-west1-docker.pkg.dev/idekctf-374221/kctf/happy-ecc-challenge:15eca3eb5f98687ab34bacfee030a0e30103e4d5fa68ad20ff16ed2c4bb7aef8
