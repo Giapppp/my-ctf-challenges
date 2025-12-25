@@ -6,6 +6,10 @@ Challenges I created for some CTF competitions.
 
 | Name | Category | Solves | CTF | Concept |
 |-|-|-|-|-|
+| Linear 101 | Crypto | 119 | Wannagame Championship 2025 | Misc |
+| Boring Signing | Crypto | 62 | Wannagame Championship 2025 | Overflow, RSA |
+| Clair Obscur | Crypto | 10 | Wannagame Championship 2025 | Cubic Surface |
+| Interesting Signing | Crypto | 4 | Wannagame Championship 2025 | Overflow, RSA, Orthogonal Lattice |
 | Catch | Crypto | 134 | idekCTF 2025 | Matrices |
 | Sadness ECC / Sadness ECC Revenge | Crypto | 65 / 27 | idekCTF 2025 | Singular Curve |
 | Happy ECC / Happy ECC Revenge | Crypto | 58 / 26 | idekCTF 2025 | Hyperelliptic Curve |
